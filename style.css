@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+.menu a{
+    font-weight: bold;
+    color: blue;
+}
+.menu a:hover{
+    color: crimson;
+}
